@@ -1,0 +1,11 @@
+﻿body {
+    
+}
+#header {
+    background-image: url('images/JordanandMacbook.jpg');
+}
+
+p.section#banner{
+    text-align:left;
+    font-size:12px;
+}
